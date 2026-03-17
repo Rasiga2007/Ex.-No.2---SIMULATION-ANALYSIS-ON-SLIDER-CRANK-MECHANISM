@@ -46,8 +46,11 @@
 ## Output
 
 
-### Name:
-### Register Number: 
+### Name:S RASIGA
+### Register Number: 212225220081
+![Output](op1.png)
+![Output](op2.png)
+![Output](op3.png)
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
